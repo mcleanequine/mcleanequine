@@ -1,0 +1,16 @@
+body{margin:0;font-family:sans-serif;line-height:1.5;background:#fafafa;color:#222}
+.wrap{max-width:1000px;margin:0 auto;padding:20px}
+.site-header{background:#fff;border-bottom:1px solid #ddd}
+.site-header .wrap{display:flex;align-items:center;gap:20px}
+.brand{font-weight:bold;font-size:1.2rem;color:#2b6a4a;text-decoration:none}
+.main-nav{margin-left:auto;display:flex;gap:15px}
+.main-nav a{text-decoration:none;color:#222}
+.hero{background:#f9fff9;padding:60px 20px;text-align:center}
+.btn{background:#2b6a4a;color:#fff;padding:10px 15px;border-radius:6px;text-decoration:none}
+.btn.ghost{background:transparent;border:1px solid #ccc;color:#222}
+ul.pricing-list{list-style:none;padding:0}
+ul.pricing-list li{margin-bottom:8px}
+.gallery-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.gallery-grid img{width:100%;border-radius:8px}
+.contact-form input,.contact-form textarea{width:100%;padding:8px;margin:5px 0;border:1px solid #ccc;border-radius:6px}
+.site-footer{background:#fff;border-top:1px solid #ddd;padding:15px;text-align:center;font-size:0.9rem}
